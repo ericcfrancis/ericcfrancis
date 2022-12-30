@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML5 and CSS**
 
-- 📫 How to reach me **ericfranccis@gmail.com**
+- 📫 How to reach me **ericcfranccis@gmail.com**
 
 - ⚡ Fun fact **I am always ready to learn new things.**
 
