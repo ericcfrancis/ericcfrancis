@@ -1,4 +1,4 @@
-[![MasterHead](https://www.teahub.io/photos/full/11-111184_thumb-image-aesthetic-pastel-space-gif.gif)](https://ericcfrancis.io)
+[![MasterHead](https://i.pinimg.com/originals/4c/2d/72/4c2d7270a1833bd6ca28c1fe6cbc9153.gif)](https://ericcfrancis.io)
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">An aspiring front-end web developer from Sabah</h3>
 <img align="right" alt="Coding" width="400" src="https://upload-assets.vice.com/files/2015/06/03/1433344430DENNISanimated.gif">
