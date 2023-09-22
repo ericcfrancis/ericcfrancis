@@ -1,0 +1,58 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffece0;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Source Code Pro', monospace;
+}
+
+/* Text */
+.coming-soon {
+  font-size: 56px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 2s steps(20, end), blink-caret 0.5s step-end infinite, repeat-animation 2.5s infinite;
+}
+.quote-text {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px; 
+}
+
+/* Animation */
+@keyframes typing {
+  from {
+      width: 0;
+  }
+  to {
+      width: 100%;
+  }
+}
+
+@keyframes blink-caret {
+  from, to {
+      border-right-color: transparent;
+  }
+  50% {
+      border-right-color: black;
+  }
+}
+
+@keyframes repeat-animation {
+  0%, 100% {
+      width: 0;
+  }
+  50% {
+      width: 100%;
+  }
+}
