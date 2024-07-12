@@ -130,7 +130,7 @@ html, body {
 .card4:hover {
   cursor: pointer;
   scale: 1.1;
-  background-color: #8c9eff;
+  background-color: #1DB954;
 }
 
 .card4:hover .discord {
