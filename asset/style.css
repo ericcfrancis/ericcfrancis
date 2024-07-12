@@ -29,34 +29,6 @@ html, body {
   margin: 20px; 
 }
 
-/* Animation
-@keyframes typing {
-  from {
-      width: 0;
-  }
-  to {
-      width: 100%;
-  }
-}
-
-@keyframes blink-caret {
-  from, to {
-      border-right-color: transparent;
-  }
-  50% {
-      border-right-color: black;
-  }
-}
-
-@keyframes repeat-animation {
-  0%, 100% {
-      width: 0;
-  }
-  50% {
-      width: 100%;
-  }
-} */
-
 /*test*/
 .main {
   display: flex;
