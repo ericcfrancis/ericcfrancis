@@ -10,25 +10,6 @@ html, body {
   font-family: 'Source Code Pro', monospace;
 }
 
-/* Text */
-.coming-soon {
-  font-size: 51px;
-  text-align: center;
-  font-weight: bold;
-  margin-top: 20px;
-  font-family: 'Open Sans', sans-serif;
-  white-space: nowrap;
-  overflow: hidden;
-  animation: typing 2s steps(20, end), blink-caret 0.5s step-end infinite, repeat-animation 2.5s infinite;
-}
-.quote-text {
-  font-style: italic;
-  font-weight: lighter;
-  font-size: 25px;
-  text-align: center;
-  margin: 20px; 
-}
-
 /*test*/
 .main {
   display: flex;
